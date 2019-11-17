@@ -1,2 +1,2 @@
-# gbc-payouts
-Tool for easy payouts
+# GBC Payouts Tool
+Tool for easy payouts, both client and Web Service API
